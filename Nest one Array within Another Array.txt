@@ -1,0 +1,5 @@
+var myArray = [ ["Deep Spirit" , 10] , ["Testing Ground" , 5] ];
+>undefined
+
+myArray;
+>Array [ (2) […], (2) […] 

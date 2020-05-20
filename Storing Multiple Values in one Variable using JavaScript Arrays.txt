@@ -1,0 +1,5 @@
+var myArray= ["Peace" , "Caution" , 8];
+>undefined
+
+myArray;
+>Array(3) [ "Peace", "Caution", 8 ]
